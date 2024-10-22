@@ -1,7 +1,7 @@
 package org.example;
 
 public abstract class Animal {
-    protected String name;  // Имя животного
+    protected String name;  // Имя 
     protected static int animalCount = 0; // Общий счетчик животных
 
     public Animal(String name) {
